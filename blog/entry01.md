@@ -1,7 +1,7 @@
-# Entry 1
+# Entry 1: Choosing My Topic (Mental Health Care)
 ##### 10/23/23
 
-#### Deciding my topic
+#### Why I chose mental health care
 
 Text
 
