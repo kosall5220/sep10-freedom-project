@@ -1,5 +1,7 @@
 # Entry 1
-##### X/X/XX
+##### 10/23/23
+
+#### Deciding my topic
 
 Text
 
