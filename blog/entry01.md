@@ -10,6 +10,8 @@ I am currently in the first stage of the Engineering Design Process(EDP), in thi
 ### Skills
 Some skills that I learned from working on this blog were **time management**, and **embracing failure**.
 
+## Time management
+
 [Next](entry02.md)
 
 [Home](../README.md)
