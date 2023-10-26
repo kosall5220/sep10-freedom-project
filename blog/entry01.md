@@ -8,10 +8,13 @@ The topic that I choose to work on for my project was mental health care since m
 I am currently in the first stage of the Engineering Design Process(EDP), in this stage I have to define the problem. With this project, I hope to inform the world about the use of technology in mental health care. Achieving this goal will help people find ways to deal with their own mental struggles and it will also provide more awareness about mental health, which is a topic that many find difficult to understand. The next step in the Engineering Design Process is to research the problem, and I plan to use articles, websites, and videos to do this.
 
 ## Skills
-Some skills that I learned from working on this blog were **time management**, and **embracing failure**.
+Some skills that I learned from working on this blog were **time management**, and **debugging**.
 
 ### Time management
+Outside of school, I have a lot of tasks I need to complete such as picking up my sibling from school, chores, and homework, I had to find a way to save time to complete my project. So after I finished my chores, I put my phone somewhere I couldn't easily access it, and I worked on my project. But I also had many homework from other classes and since I had to finish the blog in three days, I decided to work on a small part of the blog each day and this save a lot of time for other tasks and assignment. In the future, this skill will allow me complete multiple tasks as efficiently as possible.
 
+### Debugging
+While writing this blog, there were many time where I misspelled a word or made a mistake when adding headings and links. Instead of quiting, I analyzed my work to find the mistake and I used the resources that my teacher gave me to find out how to fix the problem. For example, my headings were not working even though I put the `#` before the text, but after looking at examples from other student's blogs, I realized that I just had to put a space between the `#` and the text. Having the ability to identify and fix errors will be necessary for learning new skills in the future.
 
 [Next](entry02.md)
 
