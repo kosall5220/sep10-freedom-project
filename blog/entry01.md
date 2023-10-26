@@ -16,6 +16,9 @@ Outside of school, I have a lot of tasks I need to complete such as picking up m
 ### Debugging
 While writing this blog, there were many time where I misspelled a word or made a mistake when adding headings and links. Instead of quiting, I analyzed my work to find the mistake and I used the resources that my teacher gave me to find out how to fix the problem. For example, my headings were not working even though I put the `#` before the text, but after looking at examples from other student's blogs, I realized that I just had to put a space between the `#` and the text. Having the ability to identify and fix errors will be necessary for learning new skills in the future.
 
+## Summary
+I look forward to researching and completing my website about the usage of technology in mental health care.
+
 [Next](entry02.md)
 
 [Home](../README.md)
