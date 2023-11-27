@@ -1,4 +1,4 @@
-# Entry 2
+# Entry 2: Researching devices and hardware related to mental health
 ##### 11/27/23
 
 Text
