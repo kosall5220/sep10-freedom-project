@@ -9,6 +9,8 @@ After choosing the topic mental health care to complete my project on, my second
 After researching I found that there are many devices that are used for treating mental health. Some of the technologies used to treat mental health are **Abilify MyCite**, **Prescription Video Games**, and **Virtual Reality Therapy**.
 
 ### Abilify MyCite
+[Abilify mycite](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkfIXVu2YGChxFTc3nfnX9SqjKuzH-aP8sZQ&usqp=CAU)
+
 
 ### Prescription Video Games
 
