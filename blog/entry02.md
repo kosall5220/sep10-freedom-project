@@ -26,7 +26,13 @@ Video Games can have more of a use than just entertainment. **Prescription video
 #### EndervorRX
 ![image](https://github.com/kosall5220/sep10-freedom-project/assets/146866846/a3374b5e-d178-458c-8b4a-428d2eef1b24)
 
-### Virtual Reality Therapy
+### Virtual Reality Therapy (VRT)
+**Virtual Reality Therapy**, or VRT, is a form of therapy that uses virtual reality to create simulations of real life situations and environments to help people overcome their mental health issues in a realistic way. VRT is used to treat anxiety disorders, phobias, and post-traumatic stress disorder (PTSD).
+
+#### VRT
+![image](https://github.com/kosall5220/sep10-freedom-project/assets/146866846/a2c602ad-acab-4a8f-a353-985e1ad6aae4)
+
+
 
 [Previous](entry01.md) | [Next](entry03.md)
 
