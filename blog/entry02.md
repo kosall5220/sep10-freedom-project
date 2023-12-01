@@ -32,10 +32,8 @@ Video Games can have more of a use than just entertainment. **Prescription video
 #### VRT
 ![image](https://github.com/kosall5220/sep10-freedom-project/assets/146866846/a2c602ad-acab-4a8f-a353-985e1ad6aae4)
 
-### Sources:
-[Apa.org](https://www.apa.org/members/content/wearable-technology)
-[Forbes.com](https://www.forbes.com/sites/forbestechcouncil/2020/11/25/five-tech-innovations-that-changed-mental-health-in-2020/?sh=27e60d831e9c)
-[copperdigital.com](https://copperdigital.com/blog/top-5-mental-health-tech-and-innovations-in-2022/)
+## Engineering Design process
+I am currently in the second stage of the Engineering Design Process(EDP), in this stage I have to research the problem. I decided to do research on the technology used in mental health care, and I found the websites [Apa.org](https://www.apa.org/members/content/wearable-technology), [Forbes.com](https://www.forbes.com/sites/forbestechcouncil/2020/11/25/five-tech-innovations-that-changed-mental-health-in-2020/?sh=27e60d831e9c), and [copperdigital.com](https://copperdigital.com/blog/top-5-mental-health-tech-and-innovations-in-2022/).  I plan on doing more research to find out any flaws with mental health care so I move on to step 3 of the Engineering Design Process, which is brainstorming possible solutions.
 
 
 [Previous](entry01.md) | [Next](entry03.md)
