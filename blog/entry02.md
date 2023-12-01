@@ -32,6 +32,10 @@ Video Games can have more of a use than just entertainment. **Prescription video
 #### VRT
 ![image](https://github.com/kosall5220/sep10-freedom-project/assets/146866846/a2c602ad-acab-4a8f-a353-985e1ad6aae4)
 
+### Sources:
+[Apa.org](https://www.apa.org/members/content/wearable-technology)
+[Forbes.com](https://www.forbes.com/sites/forbestechcouncil/2020/11/25/five-tech-innovations-that-changed-mental-health-in-2020/?sh=27e60d831e9c)
+[copperdigital.com](https://copperdigital.com/blog/top-5-mental-health-tech-and-innovations-in-2022/)
 
 
 [Previous](entry01.md) | [Next](entry03.md)
