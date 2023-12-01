@@ -21,6 +21,10 @@ Abilify mycite is a pill with a sensor inside it, and it’s used to treat schiz
 
 
 ### Prescription Video Games
+Video Games can have more of a use than just entertainment. Prescription video games are video games used to treat mental health. An example of one of these prescription video games is EndeavorRX. EndeavorRX is a game that’s designed for kids ages 8 to 12 with the condition ADHD. This game helps patients with their focus by challenging them to complete multiple tasks. 
+
+#### EndervorRX
+![image](https://github.com/kosall5220/sep10-freedom-project/assets/146866846/a3374b5e-d178-458c-8b4a-428d2eef1b24)
 
 ### Virtual Reality Therapy
 
