@@ -33,7 +33,8 @@ Video Games can have more of a use than just entertainment. **Prescription video
 ![image](https://github.com/kosall5220/sep10-freedom-project/assets/146866846/a2c602ad-acab-4a8f-a353-985e1ad6aae4)
 
 ## Engineering Design process
-I am currently in the second stage of the **Engineering Design Process(EDP)**, in this stage I have to research the problem. I decided to do research and take notes on the technology used in mental health care. Some of the websites I found during my research were [Apa.org](https://www.apa.org/members/content/wearable-technology), [Forbes.com](https://www.forbes.com/sites/forbestechcouncil/2020/11/25/five-tech-innovations-that-changed-mental-health-in-2020/?sh=27e60d831e9c), and [copperdigital.com](https://copperdigital.com/blog/top-5-mental-health-tech-and-innovations-in-2022/). I plan on doing more research to find anymore problems related to mental health so I could move on to the third step of the Engineering Design Process, which is brainstorming possible solutions.
+I am currently in the second stage of the **Engineering Design Process(EDP)**, in this stage I have to research the problem. I decided to do research and take notes on the technology used in mental health care. Some of the websites I found during my research were [Apa.org](https://www.apa.org/members/content/wearable-technology), [Forbes.com](https://www.forbes.com/sites/forbestechcouncil/2020/11/25/five-tech-innovations-that-changed-mental-health-in-2020/?sh=27e60d831e9c), and [copperdigital.com](https://copperdigital.com/blog/top-5-mental-health-tech-and-innovations-in-2022/). I plan on doing more research to find more problems related to mental health so I could move on to the third step of the Engineering Design Process, which is brainstorming possible solutions.
+
 
 ## Skills
 Some skills that I learned while completing this blog were **how to google**, and **attention to detail**.
