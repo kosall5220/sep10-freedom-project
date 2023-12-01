@@ -2,7 +2,7 @@
 ##### 11/27/23
 
 ## My task
-After choosing the topic mental health care to complete my project on, my second task was to research the technology used in the mental health care field.
+After choosing the topic mental health care to complete my project on, my second task was to research the technology used in the mental health field.
 
 ## Devices/hardware used in the mental health field
 
