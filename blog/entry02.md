@@ -39,7 +39,8 @@ I am currently in the second stage of the **Engineering Design Process(EDP)**, i
 Some skills that I learned while completing this blog, and the second step of EDP were **how to google**, and **attention to detail**.
 
 ### How to Google
-While researching about my topic, I looked up technology in mental health care and 923,000,000 results showed up. Since I can’t look through 900 million results, I decided to change my search to innovations in technology in the mental health field and I clicked the first website that popped up which was [Forbes.com](https://www.forbes.com/sites/forbestechcouncil/2020/11/25/five-tech-innovations-that-changed-mental-health-in-2020/?sh=27e60d831e9c). This website had a list of technologies that were new to me, and I did research on the specific devices I found. This made it way easier to research the technology used in mental health care, and how they work.
+While researching about my topic, I looked up "technology in mental health care" and 923,000,000 results showed up. Since I can’t look through 900 million results, I decided to change my search to "innovations in technology in the mental health field" and I clicked the first website that popped up which was [Forbes.com](https://www.forbes.com/sites/forbestechcouncil/2020/11/25/five-tech-innovations-that-changed-mental-health-in-2020/?sh=27e60d831e9c). This website had a list of technologies that were new to me, and I did research on the specific devices I found. This made it way easier to find the technology used in mental health care, and how they work.
+
 ### Attention to detail
 
 
