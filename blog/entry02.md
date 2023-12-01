@@ -1,8 +1,8 @@
 # Entry 2: Researching devices and hardware related to mental health
 ##### 11/27/23
 
-## Context
-After choosing the topic mental health care to complete my project on, my second task is to research the technology used in the mental health care field.
+## My task
+After choosing the topic mental health care to complete my project on, my second task was to research the technology used in the mental health care field.
 
 ## Devices/hardware used in the mental health field
 
