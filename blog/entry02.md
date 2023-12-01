@@ -35,6 +35,9 @@ Video Games can have more of a use than just entertainment. **Prescription video
 ## Engineering Design process
 I am currently in the second stage of the **Engineering Design Process(EDP)**, in this stage I have to research the problem. I decided to do research and take notes on the technology used in mental health care. Some of the websites I found during my research were [Apa.org](https://www.apa.org/members/content/wearable-technology), [Forbes.com](https://www.forbes.com/sites/forbestechcouncil/2020/11/25/five-tech-innovations-that-changed-mental-health-in-2020/?sh=27e60d831e9c), and [copperdigital.com](https://copperdigital.com/blog/top-5-mental-health-tech-and-innovations-in-2022/). I plan on doing more research to find out any flaws with mental health care so I could move on to the third step of the Engineering Design Process, which is brainstorming possible solutions.
 
+## Skills
+Some skills that I learned while completing this blog, and the second step of EDP were how to google, and attention to detail.
+
 
 [Previous](entry01.md) | [Next](entry03.md)
 
