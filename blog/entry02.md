@@ -9,7 +9,7 @@ After choosing the topic mental health care to complete my project on, my second
 After researching I found that there are many devices that are used for treating mental health. Some of the technologies used to treat mental health are **Abilify MyCite**, **Prescription Video Games**, and **Virtual Reality Therapy**.
 
 ### Abilify MyCite
-[Abilify mycite](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkfIXVu2YGChxFTc3nfnX9SqjKuzH-aP8sZQ&usqp=CAU) is a pill with a sensor inside it, and it’s used to treat schizophrenia and bipolar disorder. The sensor tracts the time of ingestion, and reports the data to a [wearable patch](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.abilifymycite.com%2Fsites%2Fg%2Ffiles%2Fqhldwo6771%2Ffiles%2Fimages%2Fnew-patch-image.png&tbnid=Q_t_rlwxB0JmJM&vet=12ahUKEwiGl9Du-OyCAxX4I2IAHQEGC9wQMygCegQIARBO..i&imgrefurl=https%3A%2F%2Fwww.abilifymycite.com%2Fhow-mycite-works&docid=o97HOmF2HloayM&w=580&h=282&q=Abilify%20MyCite%20patch&client=opera-gx&ved=2ahUKEwiGl9Du-OyCAxX4I2IAHQEGC9wQMygCegQIARBO), and this information can then be accessed by doctors through a smartphone app. The data helps doctors make treatment plans and decisions based on when the pill is being digested.
+[Abilify mycite](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkfIXVu2YGChxFTc3nfnX9SqjKuzH-aP8sZQ&usqp=CAU) is a pill with a sensor inside it, and it’s used to treat schizophrenia and bipolar disorder. The sensor tracts the time of ingestion, and reports the data to a [wearable patch](C:\Users\veryi\Downloads\new-patch-image.webp), and this information can then be accessed by doctors through a smartphone app. The data helps doctors make treatment plans and decisions based on when the pill is being digested.
 
 
 
