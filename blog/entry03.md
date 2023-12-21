@@ -19,6 +19,17 @@ My SEP10 teacher gave me the task of brainstorming any possible technology that 
   * You could use the app to track your phone use and limit the amount of time you can use an app if you feel like it’s affecting you in a negative way.
   * You will be given access educational information and links to help you understand mental health  
   * If you don’t feel comfortable talking to an AI, the app will also help you find mental health professionals.
+    
+#### AI face recognition
+* Camera with an AI that will recognize your facial expressions and determine your mood.
+* This AI could be downloaded as an app on your phone or on anything with a camera.
+
+#### Comfort robot
+* A robot that will comfort you by giving you positive advice or by playing calming music
+---
+
+  
+
 
 
 ### Skills
