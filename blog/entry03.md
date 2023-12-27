@@ -35,12 +35,16 @@ I now have to prepare my content so that it is ready for my website. First I wro
 ---
 #### Inspirations
 * [Another student's website](https://zoeo8159.github.io/sep10-freedom-project/)
-* [Context example](https://docs.google.com/document/d/1w025TKLSU0PxNJAaa4OIykkkhQI8gbeYSwAY-GccYrM/preview)
+* [Content example](https://docs.google.com/document/d/1w025TKLSU0PxNJAaa4OIykkkhQI8gbeYSwAY-GccYrM/preview)
   
 ---
 
 ### Skills
-The skills that I gained from completing part 3 of the Engineering Design Process(brainstorming) is **consideration** and **creativity**.
+The skills that I gained from completing part 3 of the Engineering Design Process(brainstorming) is **organization** and **creativity**.
+
+#### Organization
+When I had to prepare my content for my website I had to find a way to **organize** each part of it. Instead of writing my context, ideas, and the mental health technology into one big paragraph, I instead seperated each of these into sections. This made it way easier for me to work on each section, and this will make it easier for users to navigate through my website. I also did the same thing for this blog, as you can see, I organized everything into multiple sections and this makes the blog easier to read. 
+#### Creativity
 
 [Previous](entry02.md) | [Next](entry04.md)
 
