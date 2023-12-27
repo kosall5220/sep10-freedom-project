@@ -6,7 +6,7 @@ After doing research on the mental health field, I have to brainstorm new ideas 
 
 ---
 ### Brainstorming
-My SEP10 teacher gave me the task of brainstorming any possible technology that could be used in future of mental health treatment. The first idea I had was an app with resources to help you with your mental struggles with an AI that you can talk to that will give you information about your mental state. I sent this idea on to slack to get feedback from my peers and teacher and I ended up getting some more ideas such as an AI that uses facial expressions to check your mood, and a comfort robot. Here are some details about these possible future inventions:
+The next step I have to take in the Engineering Design Process(EDP) is brainstorming any possible technology that could be used in future of mental health treatment. The first idea I had was an app with resources to help you with your mental struggles with an AI that you can talk to that will give you information about your mental state. I sent this idea on to slack to get feedback from my peers and teacher and I ended up getting some more ideas such as an AI that uses facial expressions to check your mood, and a comfort robot. Here are some details about these possible future inventions:
 
 #### Mental Health App
 * An app with resources to help you with your mental struggles, and an AI that you can talk to that will give you information about your mental state.
@@ -27,6 +27,11 @@ My SEP10 teacher gave me the task of brainstorming any possible technology that 
 #### Comfort robot
 * A robot that will comfort you by giving you positive advice or by playing calming music
 ---
+
+### Finalizing my content
+I now have to prepare my content so that it is ready for my website. First I wrote the context to introduce my topic, in my context I mentioned that technology can help with mental health, and I described what the website will be about. Then I added some of the hardware and software that is used in the mental health field. The last thing I added was all of my ideas that I brainstormed. Here is my [content]( https://docs.google.com/document/d/1K5pMLSKhsHYijfJNWRfZz60BNJ5WPgshAxf-pI6uFyM/edit)
+
+
 
   
 
