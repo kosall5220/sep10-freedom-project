@@ -26,10 +26,19 @@ The next step I have to take in the Engineering Design Process(EDP) is brainstor
 
 #### Comfort robot
 * A robot that will comfort you by giving you positive advice or by playing calming music
+  
 ---
 
 ### Finalizing my content
 I now have to prepare my content so that it is ready for my website. First I wrote the context to introduce my topic, in my context I mentioned that technology can help with mental health, and I described what the website will be about. Then I added some of the hardware and software that is used in the mental health field. The last thing I added was all of my ideas that I brainstormed. Here is my [content]( https://docs.google.com/document/d/1K5pMLSKhsHYijfJNWRfZz60BNJ5WPgshAxf-pI6uFyM/edit)
+
+---
+#### Inspirations
+* [Another student's website](https://zoeo8159.github.io/sep10-freedom-project/)
+* [Context example](https://docs.google.com/document/d/1w025TKLSU0PxNJAaa4OIykkkhQI8gbeYSwAY-GccYrM/preview)
+  
+  ---
+
 
 
 
