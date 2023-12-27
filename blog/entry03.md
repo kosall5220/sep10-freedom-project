@@ -37,16 +37,10 @@ I now have to prepare my content so that it is ready for my website. First I wro
 * [Another student's website](https://zoeo8159.github.io/sep10-freedom-project/)
 * [Context example](https://docs.google.com/document/d/1w025TKLSU0PxNJAaa4OIykkkhQI8gbeYSwAY-GccYrM/preview)
   
-  ---
-
-
-
-
-  
-
-
+---
 
 ### Skills
+The skills that I gained from completing part 3 of the Engineering Design Process(brainstorming) is **consideration** and **creativity**.
 
 [Previous](entry02.md) | [Next](entry04.md)
 
