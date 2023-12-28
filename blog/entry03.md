@@ -46,7 +46,7 @@ The skills that I gained from completing part 3 of the Engineering Design Proces
 When I had to prepare my content for my website I had to find a way to organize each part of it. Instead of writing my context, ideas, and the mental health technology into one big paragraph, I instead separated each of these into sections. This made it way easier for me to work on each section, and this will make it easier for users to navigate through my website. I also did the same thing for this blog, as you can see, I organized everything into multiple sections and this makes the blog easier to read.
 
 #### Creativity
-In this project I had to come up with new technology that will help people with their mental health. In order to complete this task, I had to be creative with my ideas.
+In this project I had to come up with new technology that will help people with their mental health. In order to complete this task, I had to be creative with my ideas. 
 
 [Previous](entry02.md) | [Next](entry04.md)
 
