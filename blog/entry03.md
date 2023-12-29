@@ -6,7 +6,7 @@ After doing research on the mental health field, I have to brainstorm new ideas 
 
 ---
 ### Brainstorming
-The next step I have to take in the Engineering Design Process(EDP) is brainstorming any possible technology that could be used in future of mental health treatment. The first idea I had was an app with resources to help you with your mental struggles with an AI that you can talk to that will give you information about your mental state. I sent this idea on to slack to get feedback from my peers and teacher and I ended up getting some more ideas such as an AI that uses facial expressions to check your mood, and a comfort robot. Here are some details about these possible future inventions:
+The next step I have to take in the Engineering Design Process(EDP) is brainstorming any possible technology that could be used in future mental health treatment. The first idea I had was an app with resources to help you with your mental struggles with an AI that you can talk to that will give you information about your mental state. I sent this idea on to slack to get feedback from my peers and teacher and I ended up getting some more ideas such as an AI that uses facial expressions to check your mood, and a comfort robot. Here are some details about these possible future inventions:
 
 #### Mental Health App
 * An app with resources to help you with your mental struggles, and an AI that you can talk to that will give you information about your mental state.
