@@ -14,7 +14,7 @@ The 4th step of the Engineering Design Process (EDP) is planning. If I want to m
     **A-Frame** is a web framework that allows web designers to make 3D scenes using HTML. I chose to use A-Frame in my website because I want to make it easier for people to visualize my ideas. I tinkered with Aframe by first copy and pasting code from [aframe.io](https://aframe.io/docs/1.5.0/introduction/) into a [repl(code)](https://replit.com/@kosallour/test-aframe) on replit and then moving the shapes around in an attempt to create a face. If I ever decide to not use Aframe or if it gets too complicated I will use CSS flexbox as my backup.
 
     [My A-frame repl](https://1021ffaf-62a1-4a78-816e-7a9967fa92c5-00-3ocmxt0o8r26t.riker.replit.dev/)
-    
+
     ![Alt text](<Screenshot 2024-02-25 023327.png>)
 
 * ### [AnimateCSS](https://animate.style/)
@@ -23,6 +23,7 @@ The 4th step of the Engineering Design Process (EDP) is planning. If I want to m
 
 ---
 ### Skills
+The skills that I learned while planning were **how to learn**, and **consideration**.
 
  #### How to learn
 
