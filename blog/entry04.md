@@ -7,11 +7,16 @@ I finsihed brainstorming the content for my website, I now have to decide on wha
 ---
 
 ### Planing
-The 4th step of the Engineering Design Process (EDP) is planning. After looking threw the [list of tools](https://docs.google.com/document/d/1rk-z-5FvFE3qHRHJ9q609wqwi3cQ9AKDW4H-CPG3WYA/edit) I could use, I choose three tools for my project, here are the tools I chose:
+The 4th step of the Engineering Design Process (EDP) is planning. After looking through the [list of tools](https://docs.google.com/document/d/1rk-z-5FvFE3qHRHJ9q609wqwi3cQ9AKDW4H-CPG3WYA/edit) I could use, I chose three tools for my project, here are the tools I chose:
 
 
-* ### [Aframe](https://aframe.io/)
+* ### [A-Frame](https://aframe.io/)
+    **A-Frame** is a web framework that allows web designers to make 3D scenes using HTML. I chose to use A-Frame in my website because I want to make it easier for people to visualize my ideas. I tinkered with Aframe by first copy and pasting code from [aframe.io](https://aframe.io/docs/1.5.0/introduction/) into a [repl](https://replit.com/@kosallour/test-aframe) on replit and then moving the shapes around in an attempt to create a face. If I ever decide to not use Aframe or if it gets too complicated I will use CSS flexbox as my backup.
+
+    ![Alt text](<Screenshot 2024-02-25 023327.png>)
+
 * ### [AnimateCSS](https://animate.style/)
+
 * ### [SASS](https://sass-lang.com/)
 
 
