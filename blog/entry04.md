@@ -6,7 +6,7 @@ I finsihed brainstorming the content for my website, I now have to decide on wha
 
 ---
 
-### Planing
+### Planning
 The 4th step of the Engineering Design Process (EDP) is planning. If I want to make my website look as good as possible, I have to figure out which tools to use. After looking through the [list of tools](https://docs.google.com/document/d/1rk-z-5FvFE3qHRHJ9q609wqwi3cQ9AKDW4H-CPG3WYA/edit) I could use, I planned on using these three tools for my project:
 
 
@@ -19,6 +19,12 @@ The 4th step of the Engineering Design Process (EDP) is planning. If I want to m
 
 * ### [SASS](https://sass-lang.com/)
 
+---
+### Skills
+
+ #### How to learn
+
+ #### Consideration
 
 
 
