@@ -7,7 +7,7 @@ I finsihed brainstorming the content for my website, I now have to decide on wha
 ---
 
 ### Planing
-The 4th step of the Engineering Design Process (EDP) is planning. After looking through the [list of tools](https://docs.google.com/document/d/1rk-z-5FvFE3qHRHJ9q609wqwi3cQ9AKDW4H-CPG3WYA/edit) I could use, I chose three tools for my project, here are the tools I chose:
+The 4th step of the Engineering Design Process (EDP) is planning. If I want to make my website look as good as possible, I have to figure out which tools to use. After looking through the [list of tools](https://docs.google.com/document/d/1rk-z-5FvFE3qHRHJ9q609wqwi3cQ9AKDW4H-CPG3WYA/edit) I could use, I planned on using these three tools for my project:
 
 
 * ### [A-Frame](https://aframe.io/)
