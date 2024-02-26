@@ -42,6 +42,20 @@ The 4th step of the Engineering Design Process (EDP) is planning. If I want to m
 
 
 * ### [SASS](https://sass-lang.com/)
+    **SASS (Syntactically Awesome Style Sheets)** is a CSS preprocessor that reduces the repetition of CSS. I used SASS to make variables for different colors and it seems like it would save me a lot of time since I wouldn’t have to keep typing the values of the colors every time.  If SASS doesn’t work out, my backup will be to use [CSS variables](https://www.w3schools.com/css/css3_variables.asp).
+
+    My SASS code:
+    ```SCSS
+    $bluebg: darkblue;
+    $purpletext: purple;
+    $smallfont: 10px;
+
+    body {
+      background-color: $bluebg;
+      color: $purpletext;
+     font-size: $smallfont;
+    }
+    ```
 
 ---
 ### Skills
