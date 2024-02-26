@@ -68,7 +68,10 @@ For my project I have to use new tools that I’m unfamiliar with, so I had to l
 
 While I was trying to use A-Frame to make a face, I had a hard time moving the pieces around. Instead of quitting out of frustration, I tried to see what I was doing wrong and I started to gain a better understanding on how to move the shapes. I chose to learn from my mistakes instead of giving up on using A-Frame. Embracing failure will be an important skill to have moving forward.
 
+---
 
+### Summary
+I am excited and ready to start the next step in the Engineering Design Process which is creating a prototype.
 
 [Previous](entry03.md) | [Next](entry05.md)
 
