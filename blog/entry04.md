@@ -62,9 +62,11 @@ The 4th step of the Engineering Design Process (EDP) is planning. If I want to m
 The skills that I learned while planning were **how to learn**, and **embracing failure**.
 
  #### How to learn
-For my project I have to use new tools that I’m unfamiliar with, so I have to learn how to use them. Instead of just watching a video or reading a website about each tool, I tinkered and tested them out. I also followed guides on how to use each tool, but I still haven’t mastered them yet. Having the skill to learn effectively will help me fully understand A-Frame, AnimateCSS, and SASS, and it will help me learn about other things in the future.
+For my project I have to use new tools that I’m unfamiliar with, so I had to learn how to use them. Instead of just watching a video or reading a website about each tool, I tinkered and tested them out. I also followed guides on how to use each tool, but I still haven’t mastered them yet. Having the skill to learn effectively will help me fully understand A-Frame, AnimateCSS, and SASS, and it will help me learn about other things in the future.
 
  #### Embracing failure
+
+While I was trying to use A-Frame to make a face, I had a hard time moving the pieces around. Instead of quitting out of frustration, I tried to see what I was doing wrong and I started to gain a better understanding on how to move the shapes. I chose to learn from my mistakes instead of giving up on using A-Frame. Embracing failure will be an important skill to have moving forward.
 
 
 
