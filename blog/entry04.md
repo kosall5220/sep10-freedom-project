@@ -62,6 +62,7 @@ The 4th step of the Engineering Design Process (EDP) is planning. If I want to m
 The skills that I learned while planning were **how to learn**, and **consideration**.
 
  #### How to learn
+For my project I have to use new tools that I’m unfamiliar with, so I have to learn how to use them. Instead of just watching a video or reading a website about each tool, I tinkered and tested them out. I also followed guides on how to use each tool, but I still haven’t mastered them yet. Having the skill to learn effectively will help me fully understand A-Frame, AnimateCSS, and SASS, and it will help me learn about other things in the future.
 
  #### Consideration
 
