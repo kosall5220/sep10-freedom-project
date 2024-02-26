@@ -2,7 +2,7 @@
 ##### 2/12/24
 
 ### Context
-I finsihed brainstorming the content for my website, I now have to decide on what tools to use for my website.
+I finished brainstorming the content for my website, I now have to decide on what tools to use for my website.
 
 ---
 
