@@ -6,12 +6,18 @@
   <body>
     <a-scene>
 
+        <a-plane material="
+         repeat: 5000 5000;
+          normal-texture-repeat: 5000, 5000;
+           color: FFFFFF;" src="#grass" rotation= "-90 0 0" scale= "1000 1000 1"></a-plane>
 
 
-      <a-sky src="#sky"></a-sky>
+      <a-sky src="#sky" repeat: 5000 5000; normal-texture-repeat="5000, 5000"></a-sky>
+
 
       <a-assets>
-        <img id="sky" src="img/sky.jpeg" />
+        <img id="sky" src="img/sky3.jpeg" />
+        <img id="grass" src="img/grass.jpeg" />
       </a-assets>
 
 
