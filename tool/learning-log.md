@@ -41,9 +41,30 @@ Tool: **Aframe**
 
 * Then I created a sphere that has the texture of Earth using `src=”the-url”`. I got the Earth texture from [aframevr/sample-assets](https://github.com/aframevr/sample-assets). I also used `segments-height=""` to polish the Earth.
 
+
 ```html
-   <a-sphere src="https://raw.githubusercontent.com/aframevr/sample-assets/master/assets/images/space/earth_atmos_2048.jpg" position="0 2 -6" radius="2" segments-height="60">
+   <a-sphere src="https://raw.githubusercontent.com/aframevr/sample-assets/master/assets/images/space/earth_atmos_2048.jpg" position="0 2 -6" radius="2" segments-height="60"> </a-sphere>
 ```
+
+* Even though I wanted to learn textures, I also learned how to make animations. This is the code I used to make the Earth spin:
+```html
+ <a-animation attribute= "rotation"
+        dur="10000"
+        to= "0 360 0"
+        ease="linear"
+        repeat="indefinite">
+      </a-animation>
+```
+ `dur="10000` makes the animation cycle last for 10000 milliseconds
+
+
+ `to= "0 360 0"` changes the value of the sphere at the end of the animation
+
+ `ease="linear"` makes the speed of the animation constant
+
+ `repeat="indefinite"` makes the animation repeat infinitely
+
+
 
 
 
