@@ -57,14 +57,27 @@ Tool: **Aframe**
 ```
  `dur="10000` makes the animation cycle last for 10000 milliseconds
 
-
  `to= "0 360 0"` changes the value of the sphere at the end of the animation
 
  `ease="linear"` makes the speed of the animation constant
 
  `repeat="indefinite"` makes the animation repeat infinitely
 
+ * After making the Earth, I wanted to put the Earth in space so I found an image of space and put it as the sky.
 
+```html
+  <a-assets>
+    <img id="space" src="https://cdn.mos.cms.futurecdn.net/HuGGeENt6kGyixe3hT9tnY-1200-80.jpg" />
+  </a-assets>
+
+      <a-sky src="#space"></a-sky>
+```
+
+*Image of my A-frame*
+
+![alt text](<Screenshot 2024-03-18 000706.png>)
+
+---
 
 
 
