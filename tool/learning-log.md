@@ -28,6 +28,11 @@ Tool: **Aframe**
     ```
     After I did all of that, this is what I ended up with: ![Alt text](image.png)
 
+
+3/11/24:
+* I was interested in learning how to add textures to my scene so I looked up a guide. I found this [video](https://www.youtube.com/watch?v=klnwT3vGCPw) which teaches you how to create Earth using a-frame and I followed the steps.
+
+
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
