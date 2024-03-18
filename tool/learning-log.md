@@ -34,11 +34,12 @@ Tool: **Aframe**
 
 ### 3/11/24:
 
- I was interested in learning how to add textures to my scene so I looked up a guide. I found this [video](https://www.youtube.com/watch?v=klnwT3vGCPw) which teaches you how to create Earth using a-frame and I followed the steps.
+ I was interested in learning how to add textures to my scene so I looked up a video that demonstrates how to use textures. This is the [video](https://www.youtube.com/watch?v=klnwT3vGCPw) I found which teaches you how to create Earth using a-frame.
 
  * I first changed the A-frame version to match the one in the video since the code doesn’t work in the current version. `<script src="https://aframe.io/releases/1.5.0/aframe.min.js"></script>` ----> `<script src="https://aframe.io/releases/0.5.0/aframe.min.js"></script>`
 
 
+* Then I created a sphere that has the texture of Earth using `src=”the-url”`. I got the Earth texture from [aframevr/sample-assets](https://github.com/aframevr/sample-assets).
 
 
 <!--
