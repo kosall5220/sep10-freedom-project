@@ -79,7 +79,63 @@ Tool: **Aframe**
 
 ---
 
+### 3/18/24:
 
+I tried to test my knowledge on A-frame by creating the solar system without a guide.
+
+* I first created a sphere with a spinning animation for each planet.
+
+```html
+<a-sphere src="" position="0 0 0" radius="" segments-height="">
+        <a-animation attribute= "rotation"
+        dur="10000"
+        to= "0 360 0"
+        ease="linear"
+        repeat="indefinite">
+      </a-animation>
+</a-sphere>
+```
+
+* Then with this code I created each planet.
+
+*example: code for jupiter:*
+```html
+   <a-sphere src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYGgcSkctf7ozuiPEh4bb3Ea-tjREZPKViqg&usqp=CAU" position="46 2 -18" radius="9" segments-height="60" >
+      <a-animation attribute= "rotation"
+        dur="10000"
+        to= "0 360 0"
+        ease="linear"
+        repeat="indefinite">
+      </a-animation>
+    </a-sphere>
+```
+
+The planet that was the most challenging for me was Saturn because of its rings. To create the rings I used `<a-ring>` and then changed the position, and rotation of it to make with go around Saturn.
+
+*rings code:*
+```html
+<a-ring
+        src="https://lh3.googleusercontent.com/proxy/vLa1XrbfnTgwwJCDIYJajJ0u1v_hKeXkj1RLTDu6F4tL2U8Hf524R1FlXPC8IY1ez7E7Z89Kvi0iDkgwI1LW31cz6ArcGlxrQeManeFxi-PNdOtMdmI-QdEB"
+        radius-inner="10"
+        radius-outer="13"
+        position="70 2 -20"
+        rotation="-80 0 0">
+      </a-ring>
+```
+
+*image of my Saturn:*
+
+![alt text](<Screenshot 2024-03-25 013948.png>)
+
+* The last thing I did was put the space background by using the code `<a-sky src="">`
+```html
+ <a-sky src="https://media.istockphoto.com/id/1363878760/photo/360-degree-space-nebula-panorama-equirectangular-projection-environment-map-hdri-spherical.jpg?s=170667a&w=0&k=20&c=WgPIQSMonMcIZ9fujRYi1UijKlkEioI1uWbffSaPY8Q=">
+ </a-sky>
+ ```
+
+*Image of my Aframe:*
+
+![alt text](<Screenshot 2024-03-25 011528.png>)
 
 <!--
 * Links you used today (websites, videos, etc)
