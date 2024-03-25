@@ -1,14 +1,88 @@
+
+<!DOCTYPE html>
 <html>
   <head>
-    <script src="https://aframe.io/releases/1.5.0/aframe.min.js"></script>
+    <script src="https://aframe.io/releases/0.5.0/aframe.min.js"></script>
   </head>
   <body>
     <a-scene>
-      <a-box position="-1 0.5 -3" rotation="0 45 0" color="#4CC3D9"></a-box>
-      <a-sphere position="0 1.25 -5" radius="1.25" color="#EF2D5E"></a-sphere>
-      <a-cylinder position="1 0.75 -3" radius="0.5" height="1.5" color="#FFC65D"></a-cylinder>
-      <a-plane position="0 0 -4" rotation="-90 0 0" width="4" height="4" color="#7BC8A4"></a-plane>
-      <a-sky color="#ECECEC"></a-sky>
+
+      <a-camera position="25 0 0"></a-camera>
+
+      <a-sky src="https://media.istockphoto.com/id/1363878760/photo/360-degree-space-nebula-panorama-equirectangular-projection-environment-map-hdri-spherical.jpg?s=170667a&w=0&k=20&c=WgPIQSMonMcIZ9fujRYi1UijKlkEioI1uWbffSaPY8Q="  color="#ECECEC"></a-sky>
+
+
+      <a-sphere src="https://cdn.mos.cms.futurecdn.net/j2Vj6UiuDCMqqRt75htuHm.jpg" position="-6 2 -18" radius="12" segments-height="60">
+        <a-animation attribute= "rotation"
+        dur="10000"
+        to= "0 360 0"
+        ease="linear"
+        repeat="indefinite">
+      </a-animation>
+
+      </a-sphere>
+
+      <a-sphere src="https://www.sciencealert.com/images/2020-09/venus_surface_topicbody.jpg" position="17 2 -18" radius="1.8" segments-height="60">
+        <a-animation attribute= "rotation"
+        dur="10000"
+        to= "0 360 0"
+        ease="linear"
+        repeat="indefinite">
+      </a-animation>
+      </a-sphere>
+
+      <a-sphere src="https://raw.githubusercontent.com/aframevr/sample-assets/master/assets/images/space/earth_atmos_2048.jpg" position="25 2 -18" radius="2" segments-height="60">
+        <a-animation attribute= "rotation"
+        dur="10000"
+        to= "0 360 0"
+        ease="linear"
+        repeat="indefinite">
+      </a-animation>
+      </a-sphere>
+
+
+
+      <a-sphere src="https://www.wired.com/images_blogs/wiredscience/2011/03/Messenger-first-image1.jpg" position="10 2 -18" radius="0.6" segments-height="60">
+        <a-animation attribute= "rotation"
+        dur="10000"
+        to= "0 360 0"
+        ease="linear"
+        repeat="indefinite">
+      </a-animation>
+
+      </a-sphere>
+
+      <a-sphere src="https://t4.ftcdn.net/jpg/01/95/38/71/360_F_195387192_nTpRC2usGI2MXWeY45PWuxPA7V4h7jgl.webp" position="34 2 -18" radius="0.9" segments-height="60">
+        <a-animation attribute= "rotation"
+        dur="10000"
+        to= "0 360 0"
+        ease="linear"
+        repeat="indefinite">
+      </a-animation>
+      </a-sphere>
+
+      <a-sphere src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYGgcSkctf7ozuiPEh4bb3Ea-tjREZPKViqg&usqp=CAU" position="46 2 -18" radius="6" segments-height="60" >
+        <a-animation attribute= "rotation"
+        dur="10000"
+        to= "0 360 0"
+        ease="linear"
+        repeat="indefinite">
+      </a-animation>
+      </a-sphere>
+
+      <a-sphere src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a43529a6-5439-4e46-b973-e272e62c2e6c/d8f7djy-670bb7da-64e6-47f7-a387-6c5e74051592.jpg/v1/fill/w_1280,h_640,q_75,strp/saturn_planetary_texture_stock_image_by_uxmal750ad_d8f7djy-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjQwIiwicGF0aCI6IlwvZlwvYTQzNTI5YTYtNTQzOS00ZTQ2LWI5NzMtZTI3MmU2MmMyZTZjXC9kOGY3ZGp5LTY3MGJiN2RhLTY0ZTYtNDdmNy1hMzg3LTZjNWU3NDA1MTU5Mi5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.9UIAIMHMD-G3E17aWeBliFg9raip15kt9uM3d8Iq4tc" position="70 2 -20" radius="5" segments-height="60" >
+        <a-animation attribute= "rotation"
+        dur="10000"
+        to= "0 360 0"
+        ease="linear"
+        repeat="indefinite">
+      </a-animation>
+      </a-sphere>
+
+      <a-ring src="https://lh3.googleusercontent.com/proxy/vLa1XrbfnTgwwJCDIYJajJ0u1v_hKeXkj1RLTDu6F4tL2U8Hf524R1FlXPC8IY1ez7E7Z89Kvi0iDkgwI1LW31cz6ArcGlxrQeManeFxi-PNdOtMdmI-QdEB"  radius-inner="10" radius-outer="13" position="70 2 -20" rotation="-80 0 0">
+
+      </a-ring>
+
     </a-scene>
   </body>
 </html>
