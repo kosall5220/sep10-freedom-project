@@ -141,6 +141,58 @@ The planet that was the most challenging for me was Saturn because of its rings.
 
 ### 3/25/24:
 
+I wanted to see what shapes I could use so I went to [Arame.io](https://aframe.io/docs/1.5.0/components/geometry.html) and put each shape on my scene.
+
+*code for shapes:*
+```html
+  <a-box position="-20 0.5 -3" rotation="0 0 0" scale=" 5 5 5" color="red"></a-box>
+
+  <a-circle position="-30 0 -3" rotation="0 0 0" scale=" 3 3 3" color="orange"></a-circle>
+
+  <a-ring position="-30 10 -3" rotation="0 0 0" scale=" 3 3 3" color="red"></a-ring>
+
+  <a-cone position="-42 0 -3" rotation="0 0 0" scale=" 5 5 5" color="yellow"></a-cone>
+
+  <a-sphere src="https://raw.githubusercontent.com/aframevr/sample-assets/master/assets/images/space/earth_atmos_2048.jpg" position="-42 10 -3" rotation="0 0 0" scale=" 4 4 4" ></a-sphere>
+
+  <a-plane src="img/grass.jpeg" position="-20 10 -3" rotation="0 0 0" scale=" 5 5 5" ></a-plane>
+
+  <a-cylinder position="-55 0 -3" rotation="0 0 0" scale="4 8 5" color="green"></a-cylinder>
+
+  <a-tetrahedron position="-55 10 -3" rotation="0 0 0" scale="5 5 5" color="skyblue"></a-tetrahedron>
+
+  <a-dodecahedron position="-67 0 -3" rotation="0 0 0" scale=" 5 5 5" color="blue"></a-dodecahedron>
+
+  <a-torus src="https://www.shutterstock.com/image-vector/cake-glaze-colorful-seamless-pattern-600nw-277068518.jpg" position="-67 10 -3" rotation="0 0 0" scale=" 3 3 3" ></a-torus>
+
+  <a-octahedron position="-80 0 -3" rotation="0 0 0" scale=" 5 5 5" color="purple"></a-octahedron>
+
+  <a-torus-knot src="https://media.istockphoto.com/id/493788392/photo/old-rope-background.jpg?s=612x612&w=0&k=20&c=86XXhIfL21VmMqtqjs0XwfhM5zNwwKL5NVsOgHCL43g=" position="-80 10 -3"  rotation="0 0 0" radius="2" ></a-torus-knot>
+
+  <a-icosahedron position="-92 0 -3" rotation="0 0 0" scale=" 4 4 4" color="pink"></a-icosahedron>
+
+  <a-triangle src="https://t3.ftcdn.net/jpg/01/71/84/50/360_F_171845099_HX3VakW5hyUBjGU7uoo7QwcqQg6JBJwI.jpg" position="-92 10 -3" rotation="0 0 0" scale="5 5 5" ></a-triangle>
+```
+
+Then I tried testing the `<a-text>` code to add text to my scene. I first added it as a label to all of my shapes, and then I also created a curved image of a forest and added text in front of it.
+
+*code for curved image with text*
+```html
+  <a-text value="This is a forest" scale="13 20 20" position="-6 1 -14"></a-text>
+
+      <a-curvedimage
+      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHQbz1f5y-avz11zs5ol2SWXMVWaGX7zMpRw&s"
+      position="5 1 -20"
+      radius="14"
+      height="20"
+      rotation="0 30 0"
+      >
+     </a-curvedimage>
+```
+
+![alt text](<Screenshot 2024-04-02 022853.png>)
+
+
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
