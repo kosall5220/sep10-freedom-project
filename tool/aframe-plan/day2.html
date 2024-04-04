@@ -7,14 +7,32 @@
 
         <a-camera position=" 5 0 100"> </a-camera>
 
-        <a-sky src="https://media.istockphoto.com/id/1363878760/photo/360-degree-space-nebula-panorama-equirectangular-projection-environment-map-hdri-spherical.jpg?s=170667a&w=0&k=20&c=WgPIQSMonMcIZ9fujRYi1UijKlkEioI1uWbffSaPY8Q="></a-sky>
+        <a-sky color="black"></a-sky>
 
-        <a-entity rotation="0 0 0" animation="property: rotation; to: 0 360 0; loop: true; dur: 10000">
+
             <a-sphere
-            position="5 0 -50"
+            position="0 0 0"
+             src="https://cdn.mos.cms.futurecdn.net/j2Vj6UiuDCMqqRt75htuHm.jpg"
+            radius="14"
+            animation="property: rotation; to:0 360 0; ease:linear; dur:100000; loop:true;"
+            ></a-sphere>
+
+
+            <a-entity rotation="0 0 0" animation="property: rotation; to: 0 360 0; loop: true; dur: 9000">
+                <a-sphere
+                position="5 0 -25"
+                 src="https://www.sciencealert.com/images/2020-09/venus_surface_topicbody.jpg"
+                 radius="2"
+                 animation="property: rotation; to:0 360 0; ease:linear; dur:8000; loop:true;"
+                ></a-sphere>
+            </a-entity>
+
+        <a-entity rotation="0 0 0" animation="property: rotation; to: 0 360 0; loop: true; dur: 9000">
+            <a-sphere
+            position="5 0 -35"
              src="https://raw.githubusercontent.com/aframevr/sample-assets/master/assets/images/space/earth_atmos_2048.jpg"
-             scale= "10 10 10"
-             animation="property: rotation; to:0 360 0; ease:linear; dur:10000; loop:true;"
+             radius="3"
+             animation="property: rotation; to:0 360 0; ease:linear; dur:8000; loop:true;"
             ></a-sphere>
         </a-entity>
 
