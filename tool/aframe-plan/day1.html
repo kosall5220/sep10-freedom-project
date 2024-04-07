@@ -4,9 +4,13 @@
   </head>
   <body>
     <a-scene>
+      <a-camera position=" 0 1 15"></a-camera>
+      <a-assets>
+        <a-asset-items id="robot" src="gltf/scene.gltf"></a-asset-items>
+      </a-assets>
 
+      <a-entity gltf-model="#robot"></a-entity>
 
-        
     </a-scene>
   </body>
 </html>
