@@ -4,12 +4,21 @@
   </head>
   <body>
     <a-scene>
-      <a-camera position=" 0 1 15"></a-camera>
+      <a-camera position=" 0 2 15"></a-camera>
       <a-assets>
         <a-asset-items id="robot" src="gltf/scene.gltf"></a-asset-items>
       </a-assets>
 
-      <a-entity gltf-model="#robot"></a-entity>
+      <!-- <a-entity gltf-model="#robot"></a-entity> -->
+      <a-sky src="https://t4.ftcdn.net/jpg/00/58/81/97/360_F_58819731_fGTowGhMmHx4AdDdGA4AoZB03vjSh2lD.jpg"></a-sky>
+
+      <a-plane material="
+      repeat: 50, 50;
+       normal-texture-repeat: 50, 50;
+        color: FFFFFF;" src="https://raw.githubusercontent.com/aframevr/sample-assets/master/assets/images/wood/hardwood2_diffuse.jpg" rotation= "-90 0 0" scale= "1000 1000 1"></a-plane>
+
+
+      <a-gltf-model src="#robot"> </a-gltf-model>
 
     </a-scene>
   </body>

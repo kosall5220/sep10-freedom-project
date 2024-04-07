@@ -192,6 +192,35 @@ Then I tried testing the `<a-text>` code to add text to my scene. I first added 
 
 ![alt text](<Screenshot 2024-04-02 022853.png>)
 
+### 4/3/24
+
+Today I learned how to import custom 3D models into my scene by following [this guide](https://www.youtube.com/watch?v=eqiH5_CZDO0) on youtube and reading the [aframe.io](https://aframe.io/docs/1.5.0/primitives/a-gltf-model.html) website.
+
+What I did:
+
+1) I went to [sketchfab.com](https://sketchfab.com/feed) and downloaded [the gltf (3D model)](https://sketchfab.com/3d-models/robot-victor-gonzalez-8737e5f54f454a01a15fe54c0e4843f3) which was a robot.
+
+2) Imported the folder with the glft into my IDE.
+
+3) Used `<a-assets>` to create an ID for the gltf
+
+```html
+    <a-assets>
+    <a-asset-items id="robot" src="gltf/scene.gltf"></a-asset-items>
+    </a-assets>
+```
+
+4) Added the model to my scene by using `<a-gltf-model src="#robot"></a-gltf-model>`.
+
+* `<a-gltf-model src="">` is used to display custom 3D models
+
+*image of my scene*
+![alt text](<Screenshot 2024-04-07 052339.png>)
+
+---
+
+
+
 
 <!--
 * Links you used today (websites, videos, etc)
