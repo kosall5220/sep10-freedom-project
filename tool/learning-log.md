@@ -263,8 +263,51 @@ I used these to create the Earth with the moon orbiting it.
 
 ![alt text](<Screenshot 2024-04-07 044612.png>)
 
+
+
 ---
-<!-- ![alt text](<Screenshot 2024-04-07 044927.png>) -->
+
+### 4/5/24
+
+I learned how to make a interactive scene by making text appear when you hover over an object.
+
+- I first used `<a-camera> <a-cursor></a-cursor> </a-camera>` which creates a curser on the center of your screen and lets you interact with things.
+
+- Then I used this to make it so text only appears when you hover over the object.
+
+    ```html
+    <a-torus
+      event-set__enter="_event: mouseenter; _target: #donutText; visible: true"
+      event-set__leave="_event: mouseleave; _target: #donutText; visible: false"
+      >
+    ```
+- Lastly I created the text that will appear by using `<a-text>`
+
+*code I used to make my aframe*
+```html
+ <a-scene>
+      <a-torus
+        position="1 0.75 -3" radius="0.5" height="1.5"
+        event-set__enter="_event: mouseenter; _target: #donutText; visible: true"
+        event-set__leave="_event: mouseleave; _target: #donutText; visible: false"
+        src="https://www.shutterstock.com/image-vector/cake-glaze-colorful-seamless-pattern-600nw-277068518.jpg">
+        <a-text id="donutText" value="This is a donut" align="center" color="black" visible="false" position="0 -0.5 1"
+        geometry="primitive: plane; width: 1.75" material="color: pink"></a-text>
+      </a-torus>
+
+        <a-camera>
+          <a-cursor></a-cursor>
+        </a-camera>
+    </a-scene>
+```
+
+*Image of my scene*
+
+![alt text](<Screenshot 2024-04-07 044927.png>)
+
+---
+
+
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
