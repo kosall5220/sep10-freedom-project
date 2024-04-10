@@ -2,7 +2,7 @@
 ##### 4/8/24
 
 ### Context
-After choosing to use Aframe as my tool, I now have to learn how to use it.
+After choosing to use Aframe as my tool for my website, I now have to learn how to use it.
 
 
 ### Tinkering with Aframe:
@@ -31,7 +31,7 @@ Then I applied these images on to the sky and ground:
 ```
 After I did all of that, this is what I ended up with:
 
-![Alt text](image.png)
+![Alt text](../tool/image.png)
 
 ---
 [Previous](entry04.md) | [Next](entry06.md)
