@@ -4,7 +4,6 @@
 ### Context
 After choosing to use Aframe as my tool, I now have to learn how to use it.
 
----
 
 ### Tinkering with Aframe:
 
@@ -35,11 +34,6 @@ After I did all of that, this is what I ended up with:
 ![Alt text](image.png)
 
 ---
-
-
----
-
-
 [Previous](entry04.md) | [Next](entry06.md)
 
 [Home](../README.md)
