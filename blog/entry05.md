@@ -147,6 +147,24 @@ I created an interactive scene by making text appear when you hover over an obje
 ```
 ![alt text](<../tool/Screenshot 2024-04-07 044927.png>)
 
+#### Importing custom models
+
+I learned how to import custom 3D models into my scene by following [this guide](https://www.youtube.com/watch?v=eqiH5_CZDO0) on youtube and reading the [aframe.io](https://aframe.io/docs/1.5.0/primitives/a-gltf-model.html) website.
+
+-  First I went to [sketchfab.com](https://sketchfab.com/feed) and downloaded [the gltf (3D model)](https://sketchfab.com/3d-models/robot-victor-gonzalez-8737e5f54f454a01a15fe54c0e4843f3) which was a robot and I Imported the folder with the glft into my IDE.
+
+- Then I used `<a-assets>` to create an ID for the gltf.
+
+```html
+    <a-assets>
+    <a-asset-items id="robot" src="gltf/scene.gltf"></a-asset-items>
+    </a-assets>
+```
+
+- `<a-gltf-model src="">` is used to display custom 3D models
+
+![alt text](<../tool/Screenshot 2024-04-07 052339.png>)
+
 ---
 
 [Previous](entry04.md) | [Next](entry06.md)
