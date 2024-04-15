@@ -1,10 +1,33 @@
 # Entry 5
 ##### 4/8/24
 
+
 ### Context
 After choosing to use Aframe as my tool for my website, I now have to learn how to use it.
 
+---
+
 ### Tinkering with Aframe:
+
+#### Learning the shapes and how to apply text
+
+- I first went to [Arame.io](https://aframe.io/docs/1.5.0/components/geometry.html) and put each shape on my scene. To add the shapes I had to use `<a-(name-of-shape)>`.
+
+*code to add a box*
+
+```html
+  <a-box position="-20 0.5 -3" rotation="0 0 0" scale=" 5 5 5" color="red"></a-box>
+```
+
+- Then I added labels to each shape by using the `<a-text>` tag.
+
+*example*
+
+```html
+ <a-text value="box" scale="10 10 5" position="-22 -7 -3"></a-text>
+```
+
+![alt text](image.png)
 
 #### Applying images
 
@@ -34,7 +57,6 @@ After I did all of that, this is what I ended up with:
 
 ![Alt text](../tool/image.png)
 
----
 
 #### Adding textures
 
@@ -52,7 +74,6 @@ To learn how to add textures I also looked up a guide. This is the [video](https
 
 ![alt text](<../tool/Screenshot 2024-03-18 000706.png>)
 
----
 
 
 
