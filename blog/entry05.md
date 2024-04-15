@@ -113,6 +113,40 @@ I learned about creating animations on aframe by first reading the DOC on [afram
 
 ![alt text](<../tool/Screenshot 2024-04-07 044612.png>)
 
+#### Interactive scene
+
+I created an interactive scene by making text appear when you hover over an object.
+
+- I first used `<a-camera> <a-cursor></a-cursor> </a-camera>` which creates a cursor on the center of your screen and lets you interact with things. This will allow users to hover the cursor over the object.
+
+  ```html
+    <a-torus
+      event-set__enter="_event: mouseenter; _target: #donutText; visible: true"
+      event-set__leave="_event: mouseleave; _target: #donutText; visible: false"
+      >
+    ```
+
+- Then I created the text that will appear by using `<a-text>`
+
+*The full code*
+```html
+ <a-scene>
+      <a-torus
+        position="1 0.75 -3" radius="0.5" height="1.5"
+        event-set__enter="_event: mouseenter; _target: #donutText; visible: true"
+        event-set__leave="_event: mouseleave; _target: #donutText; visible: false"
+        src="https://www.shutterstock.com/image-vector/cake-glaze-colorful-seamless-pattern-600nw-277068518.jpg">
+        <a-text id="donutText" value="This is a donut" align="center" color="black" visible="false" position="0 -0.5 1"
+        geometry="primitive: plane; width: 1.75" material="color: pink"></a-text>
+      </a-torus>
+
+        <a-camera>
+          <a-cursor></a-cursor>
+        </a-camera>
+    </a-scene>
+```
+![alt text](<../tool/Screenshot 2024-04-07 044927.png>)
+
 ---
 
 [Previous](entry04.md) | [Next](entry06.md)
