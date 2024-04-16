@@ -31,9 +31,9 @@ After choosing to use Aframe as my tool for my website, I now have to learn how 
 
 #### Applying images
 
-To help me learn how to use images, I tried to look up a guide. After looking up "how to use images on aframe html" on youtube, I found this [video](https://www.youtube.com/watch?v=tzI5tu-0nm0).
+To help me learn how to use images, I looked up a guide. After looking up "how to use images on aframe html" on youtube, I found this [video](https://www.youtube.com/watch?v=tzI5tu-0nm0).
 
--  I first tried to find a image for the sky background and grass floor. After that I used `<a-assets>` to create an id for each image, here's the code:
+-  I first tried to find a image for the sky background and grass floor. After that, I used `<a-assets>` to create an id for each image, here's the code:
 
 ```html
     <a-assets>
@@ -103,7 +103,7 @@ I learned about creating animations on aframe by first reading the DOC on [afram
 
 - `<a-entity>`
 
-  This used to make placeholder objects that you can plug components into and provide them with different appearances, behavior, and functionality.
+  This is used to create placeholder objects that you can plug components into and provide them with different appearances, behavior, and functionality.
 
 - `<a-entity rotation="0 0 0" animation="property: rotation;">`
 
