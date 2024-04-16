@@ -167,6 +167,36 @@ I learned how to import custom 3D models into my scene by following [this guide]
 
 ---
 
+### Skills
+
+Some skills I strengthened while learning my tool was **how to learn** and **how to read**.
+
+
+### How to Learn
+
+While learning Aframe there were many strategies I used to help me learn faster and easier. One thing I did was look up guides to help me understand how Aframe works. I followed these guides but after I completed the guide I tried to tinker with the code. From this I learned that I don’t need to use `<a-assets>` to apply textures to my scene, and I also learned that multiple animations can be added to a single object.
+
+*code for multiple animations*
+
+```html
+<a-entity
+  animation="property: rotation"
+  animation__2="property: position"
+  animation__color="property: material.color">
+</a-entity>
+```
+
+
+
+
+### How to Read
+
+
+
+
+---
+
+
 [Previous](entry04.md) | [Next](entry06.md)
 
 [Home](../README.md)
