@@ -187,12 +187,9 @@ While learning Aframe there were many strategies I used to help me learn faster 
 ```
 
 
-
-
 ### How to Read
 
-
-
+While researching about Aframe there were many websites that I found and read. A strategy I used to help me gain more information from these websites or documents is using command or control F. For example, when I was trying to learn how to import 3D models, I went to the [aframe.io](https://aframe.io/docs/1.5.0/introduction/) documents then I used command F and typed 3D models and it took me to the section that talks about 3D models. I also tried rereading the document multiple times which helped me further understand the topic.
 
 ---
 
