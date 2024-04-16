@@ -193,6 +193,10 @@ While researching about Aframe there were many websites that I found and read. A
 
 ---
 
+### Summary
+Since I finished learning my tool, I can now move on to the next step of the Engineering Design Process which is creating a prototype.
+
+
 
 [Previous](entry04.md) | [Next](entry06.md)
 
