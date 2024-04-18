@@ -10860,8 +10860,7 @@ header.masthead {
   overflow: hidden;
   padding-top: calc(7rem + 72px);
   padding-bottom: 7rem;
-  /* background: linear-gradient(0deg, rgba(0,255,203,1) 0%, rgba(9,121,96,1) 100%); */
-  background: linear-gradient(0deg, rgba(93,201,179,1) 0%, rgba(9,121,96,1) 100%);
+  background: linear-gradient(0deg, #ff6a00 0%, #ee0979 100%);
   background-repeat: no-repeat;
   background-position: center center;
   background-attachment: scroll;
@@ -10873,7 +10872,6 @@ header.masthead .masthead-content {
 }
 header.masthead .masthead-content .masthead-heading {
   font-size: 4rem;
-  color: #FFFF
 }
 header.masthead .masthead-content .masthead-subheading {
   font-size: 2rem;
@@ -10882,8 +10880,7 @@ header.masthead .bg-circle {
   z-index: 0;
   position: absolute;
   border-radius: 100%;
-  /* background: linear-gradient(90deg, rgba(9,121,96,1) 50%, rgba(0,255,203,1) 100%); */
-  background: linear-gradient(90deg, rgba(9,121,96,1) 50%, rgba(56,196,168,1) 100%);
+  background: linear-gradient(0deg, #ee0979 0%, #ff6a00 100%);
 }
 header.masthead .bg-circle-1 {
   height: 90rem;
