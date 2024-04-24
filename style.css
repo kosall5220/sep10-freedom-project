@@ -10870,6 +10870,7 @@ header.masthead {
 header.masthead .masthead-content {
   z-index: 1;
   position: relative;
+
 }
 header.masthead .masthead-content .masthead-heading {
   font-size: 4rem;
@@ -10921,4 +10922,12 @@ header.masthead .bg-circle-4 {
   header.masthead .masthead-content .masthead-subheading {
     font-size: 4rem;
   }
+}
+
+section {
+  padding: 30px;
+}
+
+p {
+  padding: 20px;
 }
