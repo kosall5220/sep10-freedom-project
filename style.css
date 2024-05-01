@@ -10970,9 +10970,9 @@ background-color: #8c99d7
 
 }
 
-.accordion-item {
-  background: #8c99d7 !important;
-}
+/* .accordion-item {
+  background: #02452c !important;
+} */
 
 .purple{
   background: #8c99d7 !important;
@@ -10986,3 +10986,32 @@ img {
   padding: 10px;
 }
 
+.blue {
+  color: #6e99fe;
+  background: #6e99fe
+}
+
+.darkblue {
+  color: #33479f;
+  background: #33479f;
+}
+
+.green {
+  color: #02452c;
+  background: #02452c;
+}
+
+
+
+.ggreen {
+  color: #068c5a;
+  background: #068c5a;
+}
+
+a {
+  color: #8c99d7;
+}
+
+li {
+  font-size: 2vw;
+}
