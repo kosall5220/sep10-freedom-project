@@ -17,13 +17,25 @@ Topic: Mental Health Care
 
   * Smartphones give you access to many mental health care apps and sources.
 
-  * ![image text](https://www.trustedreviews.com/wp-content/uploads/sites/54/2023/08/Best-cheap-phone.jpg)
+![alt text](smartphone.webp)
+
 
 * #### Smart Watches:
   * A wearable device that gives you easy access to mental health care apps.
 
-  
+  ![alt text](swatch.webp)
+
+  * #### Abilify MyCite
+    * A pill with a sensor inside that tracks drug ingestion, it is also used to treat schizophrenia.
+
+![alt text](repview.jpg)
+
+
 
 ## Part B: possible future technology
 * Idea
   * Detail
+
+![alt text](vrt.jpg)
+![alt text](end.jpg)
+![alt text](sp.jpg)
