@@ -42,3 +42,5 @@ Topic: Mental Health Care
 ![alt text](headspace-App.jpg)
 ![alt text](moodtools.png)
 ![alt text](happify.png)
+![alt text](face-recognition.jpg)
+![alt text](brain-app.jpg)
