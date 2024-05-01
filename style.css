@@ -157,7 +157,7 @@ h4, .h4 {
 }
 
 h5, .h5 {
-  font-size: 3vw;
+  font-size: 2.5vw;
   padding: 15px;
   color: #bdfff1;
 
@@ -11018,7 +11018,4 @@ li {
   font-family: "Oswald", sans-serif;
 }
 
-hr {
-  color: #bdfff1
-}
 
