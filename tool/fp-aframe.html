@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script src="https://aframe.io/releases/1.5.0/aframe.min.js"></script>
+  </head>
+  <body>
+    <a-scene>
+
+
+
+      <a-sky color=#6e99fe ></a-sky>
+      <a-camera position="0 5 20"></a-camera>
+
+
+      <!-- <a-box position="-1 15 -3" height="9" depth="10" width="9" color=lightgreen> </a-box>
+
+      <a-cylinder  position="-1 9 -3" color="cyan" height="6" radius="1.5"> </a-cylinder>
+
+      <a-box position="-1 4 -3" height="11" depth="8" width="15" color=#ffb201> </a-box>
+
+      <a-cylinder  position="-4 -3 -3" color="cyan" height="8" radius="1.7"> </a-cylinder>
+      <a-cylinder  position="3 -3 -3" color="cyan" height="8" radius="1.7"> </a-cylinder> -->
+
+
+      <a-assets>
+        <a-asset-item id="robot" src="simple_robot/scene.gltf"></a-asset-item>
+      </a-assets>
+
+      <a-entity gltf-model="#robot"></a-entity>
+
+
+
+
+    </a-scene>
+  </body>
+</html>
