@@ -1,4 +1,16 @@
- @charset "UTF-8";
+@charset "UTF-8";
+
+/*!
+* Start Bootstrap - One Page Wonder v6.0.6 (https://startbootstrap.com/theme/one-page-wonder)
+* Copyright 2013-2023 Start Bootstrap
+* Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-one-page-wonder/blob/master/LICENSE)
+*/
+/*!
+ * Bootstrap  v5.2.3 (https://getbootstrap.com/)
+ * Copyright 2011-2022 The Bootstrap Authors
+ * Copyright 2011-2022 Twitter, Inc.
+ * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
+ */
 
 :root {
   --bs-blue: #0d6efd;
@@ -169,14 +181,14 @@ h6, .h6 {
 
 }
 
-p {
+/* p {
   margin-top: 0;
   margin-bottom: 1rem;
   font-size: 2.5vw;
   font-family: "Oswald", sans-serif;
   color: black;
-  padding: 15px;
-}
+  padding: 10px;
+} */
 
 abbr[title] {
   -webkit-text-decoration: underline dotted;
@@ -10974,7 +10986,7 @@ background-color: #8c99d7
   background: #02452c !important;
 } */
 
-.purple{
+/* .purple{
   background: #8c99d7 !important;
 }
 
@@ -10999,7 +11011,7 @@ img {
 .green {
   color: #02452c;
   background: #02452c;
-}
+} */
 
 
 
