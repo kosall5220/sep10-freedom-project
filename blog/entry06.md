@@ -15,7 +15,7 @@ Before I started making the website, I made a layout of it by using [wireframe.c
 ### Creating the Minimum Viable Product (MVP)
 
 #### Bootstrap template
-For my website I used a bootstrap template. The template I chose was the [“One Page Wonder”](https://startbootstrap.com/theme/one-page-wonder) template because I liked the transparent navbar and the background circles in the header. I also liked how simple it was and it was a template that I could easily change and add on too.
+For my website I used a bootstrap template. The template I chose was the [“One Page Wonder”](https://startbootstrap.com/theme/one-page-wonder) template because I liked the transparent navbar and the background circles in the header. I also liked how simple it was, and it was a template that I could easily change and add on to.
 
 ![alt text](image-2.png)
 
