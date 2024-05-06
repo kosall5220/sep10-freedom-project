@@ -19,6 +19,13 @@ For my website I used a bootstrap template. The template I chose was the [“One
 
 ![alt text](image-2.png)
 
+#### Navbar and Title
+
+Since I already had a transparent navbar and title from the template all I had to do was change the information on the navbar and the color of the title.
+
+![alt text](image-3.png)
+
+
 
 ### Skills
 
