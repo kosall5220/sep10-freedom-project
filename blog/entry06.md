@@ -25,6 +25,50 @@ Since I already had a transparent navbar and title from the template all I had t
 
 ![alt text](image-3.png)
 
+#### Carousel
+
+In my layout I wanted to create a slide show for the portable devices.
+
+First I created a `<div>` element with the class `".carousel"` and a unique ID called `"#port"`.
+
+```html
+ <div id="port" class="carousel carousel-dark slide" data-bs-ride="false">
+```
+
+Then I created the slides. For the each slide I used `class="carousel-item active"`to make a slide. In each slide I put the code:
+```html
+ <div class="card text-bg-dark mb-5">
+    <div class="card-body">
+```
+This code created a [card](https://getbootstrap.com/docs/5.2/components/card/) inside the carousel. In the card I put the In the card I put the details about each device and an image of it.
+
+This is the code I used for the arrows and indicaters.
+
+```html
+
+<!-- Indicaters -->
+  <div class="carousel-indicators">
+   <button type="button" data-bs-target="#port" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+  <button type="button" data-bs-target="#port" data-bs-slide-to="1" aria-label="Slide 2"></button>
+  <button type="button" data-bs-target="#port" data-bs-slide-to="2" aria-label="Slide 3"></button>
+  </div>
+
+  <!-- Arrows -->
+ <button class="carousel-control-prev" type="button" data-bs-target="#port" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+    </button>
+    <button class="carousel-control-next" type="button" data-bs-target="#port" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+</button>
+
+```
+
+
+
+
+
 
 
 ### Skills
