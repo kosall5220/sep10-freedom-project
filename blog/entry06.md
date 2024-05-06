@@ -64,9 +64,47 @@ This is the code I used for the arrows and indicaters.
 </button>
 
 ```
+![alt text](image-4.png)
 
+#### Cards
+For some sections I used the bootstrap component cards. First I used `<div class="card-group">` to put all the cards in one group with equal width and height columns.
 
+Then to create a card I used this code:
+```html
+<div class="card text-bg-dark">
+    <div class="card-body text-bg-dark">
+    <h5 class="card-title"> Title </h5>
+    Card content
+</div>
+```
+![alt text](image-5.png)
 
+### Adding my Aframe
+To add my aframe to the website I had to use `<iframe>`.
+
+`<iframes>` is an element that loads another HTML page into a different HTML page.
+
+```html
+<!-- iframe in my code -->
+ <iframe src="tool/fp-aframe.html" title="description" height="100%" width="90%"> </iframe>
+ ```
+
+### Challenge (Columns and Bootstrap grids)
+
+Something that was challenging for me was making my website responsive. This was a challenge for me because my website looked fine on larger screen sizes but when I went on a smaller screen some parts of my site would become really tight together. To fix this I used [columns](https://getbootstrap.com/docs/5.2/layout/columns/) and [bootstrap grids](https://getbootstrap.com/docs/5.2/layout/grid/).
+
+For example in my website I wanted to make the future technology ideas side by side when on bigger screens and on top of each other when on smaller screens. I did this by creating `.rows` so I can have equal-width columns. Then I created columns that would take up a specific amound of space on the grid at different [breakpoints](https://getbootstrap.com/docs/5.2/layout/breakpoints/) or screen sizes.
+
+```html
+<div class="col-md-6 col-sm-8 col-xs-8">
+    content
+</div>
+```
+This means that at medium or bigger screen sizes the columns would take up less space and they would be side by side.
+![alt text](image-6.png)
+
+And on smaller screen sizes, the columns would take up more space and they will stack on top of each other.
+![alt text](image-7.png)
 
 
 
