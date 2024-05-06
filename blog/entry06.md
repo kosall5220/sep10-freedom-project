@@ -40,7 +40,7 @@ Then I created the slides. For the each slide I used `class="carousel-item activ
  <div class="card text-bg-dark mb-5">
     <div class="card-body">
 ```
-This code created a [card](https://getbootstrap.com/docs/5.2/components/card/) inside the carousel. In the card I put the In the card I put the details about each device and an image of it.
+This code created a [card](https://getbootstrap.com/docs/5.2/components/card/) inside the carousel. In the card, I put details about each device and an image of it.
 
 This is the code I used for the arrows and indicaters.
 
