@@ -4225,9 +4225,11 @@ textarea.form-control-lg {
 }
 
 .card-body {
-  flex: 1 1 auto;
-  padding: var(--bs-card-spacer-y) var(--bs-card-spacer-x);
+  /* flex: 1 1 auto; */
+  /* padding: var(--bs-card-spacer-y) var(--bs-card-spacer-x); */
+  padding: 0.5px;
   color: var(--bs-card-color);
+
 }
 
 .card-title {
@@ -4298,7 +4300,7 @@ textarea.form-control-lg {
 .card-img-top,
 .card-img-bottom {
   width: 100%;
- 
+
 }
 
 .card-img,
