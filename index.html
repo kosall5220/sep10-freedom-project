@@ -17,7 +17,7 @@
             h1 {
               font-size: calc(1.375rem + 1.5vw);
               padding: 15px;
-              color: #bdfff1;
+              color: #f8bbff;
             }
 
             h2 {
@@ -39,7 +39,7 @@
             }
 
             h5, .h5 {
-              font-size: 2.5vw;
+              font-size: calc(1.275rem + 0.3vw);
               padding: 15px;
               color: #bdfff1;
             }
@@ -52,9 +52,9 @@
             p {
                 margin-top: 0;
                 margin-bottom: 1rem;
-                font-size: 2.5vw;
+                font-size: 1rem;
                 font-family: "Oswald", sans-serif;
-                color: black;
+                color: #FFF;
                 padding: 10px;
               }
 
@@ -68,26 +68,34 @@
 
                  img {
                   padding: 10px;
+
                  }
+
+
 
                 .blue {
                  color: #6e99fe;
-                 background: #6e99fe
+                 background: #012348;
+                 /* background: #045686 */
                   }
 
                 .darkblue {
                   color: #33479f;
-                    background: #33479f;
+                    /* background: #33479f; */
+                    background: #045686;
                  }
 
                   .green {
                     color: #02452c;
-                     background: #02452c;
+                     /* background: #02452c; */
+
+                     background: #53857a;
                   }
 
                   .ggreen {
                     color: #068c5a;
-                    background: #068c5a;
+
+                    background: #015869;
                   }
 
                   a {
@@ -95,14 +103,15 @@
                   }
 
                   li {
-                    font-size: 2.5vw;
+                    font-size: 1.5rem;
                     color: white;
                     font-family: "Oswald", sans-serif;
                   }
 
                   section {
                   padding: 30px;
-                  background-color: #8c99d7
+                  /* background-color: #8c99d7 */
+                  background: #66b6aa;
                   }
 
                   .card {
@@ -131,6 +140,16 @@
                     position: absolute;
                     border-radius: 100%;
                     background: linear-gradient(90deg, rgba(9,121,96,1) 50%, rgba(56,196,168,1) 100%);
+                  }
+
+                  .text-bg-primary {
+                    color: #6faee5 !important;
+                    background-color: #8c99d7 !important;
+                  }
+
+                  .text-bg-dark {
+                    color: #fff !important;
+                    background-color: #342788 !important;
                   }
 
 
@@ -240,17 +259,17 @@
 
                       <div class="carousel-inner">
                         <div class="carousel-item active">
-                          <div class="card text-bg-dark mb-5">
+                          <div class="card text-bg-primary mb-5">
                             <div class="card-body">
                           <h5 class=" text-center card-title">Smartphones</h5>
                           <p class="card-text text-center text-white">Smartphones give you access to many mental health care apps and sources.</p>
-                          <img src="prep/smartphone.webp" class="card-img-bottom rounded" alt="..."/>
+                          <img src="prep/smartphone.webp" class="card-img-bottom rounded"  alt="..."/>
                           </div>
                           </div>
                         </div>
 
                         <div class="carousel-item">
-                            <div class="card text-bg-dark mb-5">
+                            <div class="card text-bg-primary mb-5">
                               <div class="card-body">
                             <h5 class=" text-center card-title">Smartwatch</h5>
                             <p class="card-text text-center text-white text-md-start"> A wearable device that gives you easy access to mental health care apps. </p>
@@ -260,7 +279,7 @@
                       </div>
 
                       <div class="carousel-item">
-                        <div class="card text-bg-dark mb-5">
+                        <div class="card text-bg-primary mb-5">
                           <div class="card-body">
                         <h5 class=" text-center card-title">Abilify MyCite</h5>
                         <p class="card-text text-center text-white"> A pill with a sensor inside that tracks drug ingestion, it is also used to treat schizophrenia. </p>
@@ -328,7 +347,7 @@
                         <div class="card-body text-bg-dark">
                           <h5 class="card-title">EndeavorRx</h5>
                           <p class="card-text text-white small-text">This is the first medical prescription videogame and it is used to treat 8-12 year old kids with ADHD.</p>
-                            <img src="prep/end.jpg" class="card-img-top" alt="..."/>
+                            <img src="prep/end.jpg" class="card-img-top rounded" alt="..."/>
                         </div>
                       </div>
                     </div>
@@ -337,7 +356,7 @@
                         <div class="card-body">
                           <h5 class="card-title">SPARX</h5>
                           <p class="card-text text-white small-text">A prescription videogame used to treat depression and anxiety in people who are ages 12–25.</p>
-                          <img src="prep/sp.jpg" class="card-img-top" alt="..."/>
+                          <img src="prep/sp.jpg" class="card-img-top rounded" alt="..."/>
                         </div>
                       </div>
                     </div>
@@ -360,7 +379,7 @@
                           <li> Teaches users how to meditate. </li>
                           <li> Can use at anytime, even offline. </li>
                         </ul>
-                        <img src="prep/headspace-App.jpg" class="card-img-top" alt="..."/>
+                        <img src="prep/headspace-App.jpg" class="card-img-top rounded" alt="..."/>
                       </div>
                     </div>
 
@@ -397,12 +416,12 @@
                   <h1 class="text-center"> Future Technology </h1>
 
                   <div class="container text-center">
-                    <div class="row row-cols-2">
+                    <div class="row col-12">
 
 
                       <!-- Idea-1 -->
-                      <div class="col-md-6 col-sm-8 col-xs-8">
-                        <h2 class="text-center text-decoration-underline"> AI face recognition </h2>
+                      <div class="col-md-6 col-sm-8 col-xs-12">
+                        <h2 class="text-center"> AI face recognition </h2>
                           <ul>
                             <li>Camera with an AI that will recognize your facial expressions and determine your mood.</li>
                             <li>This AI could be downloaded as an app on your phone or on anything with a camera
@@ -416,9 +435,9 @@
 
 
                       <!-- Idea-2 -->
-                      <div class="col-md-6 col-sm-8 col-xs-8">
+                      <div class="col-md-4 col-sm-8 col-xs-12">
 
-                        <h2 class="text-center text-decoration-underline"> Future App </h2>
+                        <h2 class="text-center"> Future App </h2>
 
                         <p class="text-white">An app with resources to help you with your mental struggles, and an AI that you can talk to that will give you information about your mental state.</p>
 
