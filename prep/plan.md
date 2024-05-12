@@ -26,4 +26,7 @@
 
 #### Beyond MVP
 
-* Task
+* Fix containers/rows on part b
+* Fix carousel and navbar colors
+* Add radius to my images
+* Borders for part b

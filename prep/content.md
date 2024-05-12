@@ -23,7 +23,7 @@ Topic: Mental Health Care
 * #### Smart Watches:
   * A wearable device that gives you easy access to mental health care apps.
 
-  ![alt text](swatch.webp)
+ ![alt text](swatch.jpg)
 
   * #### Abilify MyCite
     * A pill with a sensor inside that tracks drug ingestion, it is also used to treat schizophrenia.
