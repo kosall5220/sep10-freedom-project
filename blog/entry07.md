@@ -93,9 +93,27 @@ When the judges came up to me I followed my plan but I think I could’ve spoken
 
 ---
 
+### Skills
 
+Some skills that I learned from this was consideration and Organization.
 
+This project has taught me to have consideration for other people while creating something. One example is when I made the font size bigger for my class presentation slides so those in the back of the room could read it.
 
+This project has taught me the importance of being organized. If I didn’t write down my ideas or make a plan, finishing this project would have been way more difficult to complete.
+
+### Takeaway
+
+Moving forward all of the skills I learned while making and presenting my website will help me with any task or problem I have in the future. Hopefully I can improve on all of these skills as I move forward.
+
+---
+
+### Links
+
+* [Project(website)](https://kosall5220.github.io/sep10-freedom-project/)
+
+* [Presentation(Sildes)](https://docs.google.com/presentation/d/10460DbshnOYCZaMcVqaddVlEkeBA2H3TEwLyCyNXyYo/edit#slide=id.g20305be72c5_0_914)
+
+* [SEP10 Notes](https://docs.google.com/document/d/1VJAFMl0TMxN4vRm5UKcsslsPzSIqfxj898Kzt64-n4E/edit) : Where my planning and lists are.
 
 [Previous](entry06.md) | [Next](entry08.md)
 
