@@ -111,7 +111,7 @@ And on smaller screen sizes, the columns would take up more space and they will 
 
 ### Skills
 
-Some of the skills that I learned while creating my MVP was **organization** and **consideration**.
+Some of the skills that I learned while creating my MVP was **organization** and **attention to details**.
 
 
 #### Organization
@@ -131,7 +131,7 @@ I also organized my code by adding titles to help me know what part of my websit
 
 ```
 
-#### Consideration
+#### Attention to detail
 Another skill that I learned was attention to detail. When I was making my website I wanted to get rid of any errors or problems that it had. To do this I had to pay attention to all the little things in my code to make sure there weren't any errors. For example, there was one time where my heading wasn’t working.
 
 ```html
