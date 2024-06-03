@@ -64,13 +64,38 @@ After creating this plan, I started making my slides. The first slide would just
 
 [Link to my presentation](https://docs.google.com/presentation/d/10460DbshnOYCZaMcVqaddVlEkeBA2H3TEwLyCyNXyYo/edit#slide=id.p)
 
+#### Elevator pitch
+
+Unlike the classroom presentation, for my elevator pitch I only had 1 minute to show off my website and 30 seconds for questions. I would be giving this elevator pitch to judges and also to other students, since I only had a minute to present I had to create a plan. So the first thing I did was list the things that would be important to tell the judges.
+
+![alt text](image-9.png)
+
+The next thing I did was make a script with all the important things from the list to tell the judges. Here is what I wrote:
+
+"Hello, would you like to check out my project? My project is a website about mental health care and I created this to hopefully help people find new ways to treat their mental struggles. There are two parts to my website: the first part showcases the technology that already exists such as portable devices, simulations, and apps. And the last part, which is at the bottom, shows the future technology that I came up with. In the last part of my website there is a 3D model for one of my ideas that you can interact with. The purpose of this 3D model is to give users a preview of how the comfort robot might look like if it was created. Here is the code I used to create my project, do you have any questions?"
+
+
+The day before the expo I practiced saying my elevator pitch to the class. While practicing there would be a 1 minute timer and I practiced saying everything I wanted to in that amount of time. This practice would be very helpful because when I presented to the judges I was already prepared and it made me less nervous about presenting.
+
+
+When the judges came up to me I followed my plan but I think I could’ve spoken more clearly and maybe engaged with them more but other than that it went well.
+
+
+#### Elevator Pitch Takeaways
+* Have a plan
+    * Without a plan presenting my website to the judges would’ve been way more difficult
+
+* Practice
+    * Practicing made it easier for me to present since I was already use to giving my elevator pitch
+
+* Be confident
+    * Having confidence can make your presentation sound better to your audience
+
+---
 
 
 
 
-
-
-### Takeaways
 
 [Previous](entry06.md) | [Next](entry08.md)
 
