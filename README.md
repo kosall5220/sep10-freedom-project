@@ -1,24 +1,30 @@
 # SEP10 Freedom Project
-by **X**
+by **Kosal Lour**
 
 ## Context
 I am a student at [HSTAT](https://www.hstat.org/) in the [Software Engineering Program](https://hstatsep.github.io/). The "Freedom Project" for SEP10 is a year-long project all about making a website that informs the viewer of the current and future innovations in the topic of my choosing.
 
-For my project, I chose the topic of **X**. 
+For my project, I chose the topic of **Mental Health Care**.
 
-I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **X** in order to help me make by website.
+I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **mental health treatment** in order to help me make by website.
 
 ## Links
 
-[Product]()
+[Product](https://kosall5220.github.io/sep10-freedom-project/)
 
-[Presentation]()
+[Presentation](https://docs.google.com/presentation/d/10460DbshnOYCZaMcVqaddVlEkeBA2H3TEwLyCyNXyYo/edit#slide=id.p)
 
 ## Implications
 ##### PROS
-* 
+* My website can help people find new ways to treat their mental struggles
+* More possible technology to treat mental health
+* New businesses for the future technology could be created
+
 ##### CONS
-* 
+* Ideas in my “future technology” section might be expensive to create
+* The “comfort robot” could be dangerous if it malfunctions and it might be a safety concern to have a robot move around independently in public.
+
+
 
 
 ## Blog

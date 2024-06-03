@@ -1,7 +1,7 @@
 # Entry 7
-##### X/X/XX
+##### 5/21/24
 
-Text
+#### Takeaways
 
 [Previous](entry06.md) | [Next](entry08.md)
 
