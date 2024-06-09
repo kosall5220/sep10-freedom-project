@@ -95,10 +95,12 @@ When the judges came up to me I followed my plan but I think I could’ve spoken
 
 ### Skills
 
-Some skills that I learned from this was consideration and Organization.
+Some skills that I learned from this was **consideration** and **organization**.
 
+#### Consideration
 This project has taught me to have consideration for other people while creating something. One example is when I made the font size bigger for my class presentation slides so those in the back of the room could read it.
 
+#### Organization
 This project has taught me the importance of being organized. If I didn’t write down my ideas or make a plan, finishing this project would have been way more difficult to complete.
 
 ### Takeaway
